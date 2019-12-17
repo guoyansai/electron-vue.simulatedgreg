@@ -23,12 +23,16 @@ npm run lint
 
 ```
 
+###### 懒人专用
 ```
 vue init simulatedgreg/electron-vue my-project
 cd my-project
 npm install
 npm run dev
-
+```
+### 错误提示修复
+\src\index.ejs  
+process => `require('process')` 
 ```
 
 ---
