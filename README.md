@@ -1,4 +1,4 @@
-# myvue
+# electron-vue.simulatedgreg
 
 > An electron-vue project
 
